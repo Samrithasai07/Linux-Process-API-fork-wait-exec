@@ -43,7 +43,7 @@ int main() {
 }
 ```
 ## OUTPUT
-<img width="923" height="280" alt="image" src="https://github.com/user-attachments/assets/b9b534f1-64eb-476b-8833-a14fbff4e3fa" />
+![WhatsApp Image 2025-11-12 at 15 41 30_855927ad](https://github.com/user-attachments/assets/91d16b10-14ea-467f-8f50-d48d31646620)
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -90,7 +90,7 @@ int main() {
 }
 ```
 ## OUTPUT 
-<img width="935" height="405" alt="image" src="https://github.com/user-attachments/assets/f1e35b51-6db8-4e1d-98b3-76c5abaf47b6" />
+![WhatsApp Image 2025-11-12 at 16 05 32_9c9de921](https://github.com/user-attachments/assets/820de45d-6fe0-4021-a9db-b4f114979c86)
 
 
 # RESULT:
