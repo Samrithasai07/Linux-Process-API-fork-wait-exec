@@ -43,6 +43,7 @@ int main() {
 }
 ```
 ## OUTPUT
+
 ![WhatsApp Image 2025-11-12 at 15 41 30_855927ad](https://github.com/user-attachments/assets/91d16b10-14ea-467f-8f50-d48d31646620)
 
 
@@ -90,7 +91,8 @@ int main() {
 }
 ```
 ## OUTPUT 
-![WhatsApp Image 2025-11-12 at 16 05 32_9c9de921](https://github.com/user-attachments/assets/820de45d-6fe0-4021-a9db-b4f114979c86)
+
+![WhatsApp Image 2025-11-12 at 16 05 32_5732371e](https://github.com/user-attachments/assets/a5fe6269-fa80-4754-8abd-d7a49934c2fb)
 
 
 # RESULT:
